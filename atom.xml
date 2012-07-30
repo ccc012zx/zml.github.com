@@ -4,40 +4,13 @@
   <title><![CDATA[张朦胧的 Blog]]></title>
   <link href="http://ccc012zx.github.com/atom.xml" rel="self"/>
   <link href="http://ccc012zx.github.com/"/>
-  <updated>2012-07-30T17:33:18+08:00</updated>
+  <updated>2012-07-30T21:19:23+08:00</updated>
   <id>http://ccc012zx.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[ccc012zx]]></name>
+    <email><![CDATA[javac.m.z@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[the first post]]></title>
-    <link href="http://ccc012zx.github.com/blog/2012/07/30/the-third-post/"/>
-    <updated>2012-07-30T16:35:00+08:00</updated>
-    <id>http://ccc012zx.github.com/blog/2012/07/30/the-third-post</id>
-    <content type="html"><![CDATA[<p>第三个</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[the first post]]></title>
-    <link href="http://ccc012zx.github.com/blog/2012/07/30/the-second-post/"/>
-    <updated>2012-07-30T16:35:00+08:00</updated>
-    <id>http://ccc012zx.github.com/blog/2012/07/30/the-second-post</id>
-    <content type="html"><![CDATA[<p>第二个</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[the first post]]></title>
-    <link href="http://ccc012zx.github.com/blog/2012/07/30/the-first-post/"/>
-    <updated>2012-07-30T16:35:00+08:00</updated>
-    <id>http://ccc012zx.github.com/blog/2012/07/30/the-first-post</id>
-    <content type="html"><![CDATA[<p>我就是喜欢这样怎么找吧</p>
-]]></content>
-  </entry>
   
 </feed>
